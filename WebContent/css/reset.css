@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+
+html{clor:#000;background:#FFF}body,div,di,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,filedset,legend,input,textarea,p,blockquote,th,
+td{margin:0;padding:0}table{border-collapse:collapse;border-spacing:0}
+filedset,img(border:0}address,caption,cite,code,dfn,em,strong,th,
+var{front-style:normal;front-weight:normal}ol,ul{list-style:none}caption,th{text-align:left}h1,h2,h3,h4,h5,h6
+{front-size:100%;font-weight:normal}q:before,q:after{content:' '}
+abbr,acronym{border:0;front-variant:norimal}sup{vertical-align:text-top}sub{vertical-align:text-bottom}input,textarea,
+select{font-family:inherit;front-size:inherit;font-weight:inherit;*font-size:100%}
+legend{color:#000}#yui3-css-stamp.cssreset{display:none}
