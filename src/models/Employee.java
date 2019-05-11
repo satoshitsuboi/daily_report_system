@@ -10,7 +10,7 @@ import javax.persistence.NamedQueries;
 import javax.persistence.NamedQuery;
 import javax.persistence.Table;
 
-@Table(name= "employess")
+@Table(name= "employees")
 @NamedQueries({
 	@NamedQuery(
 			name = "getAllEmployees",
