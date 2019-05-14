@@ -55,11 +55,11 @@ th {
     width: 26%;
     padding: 10px 2%;
 }
-
-td {
-    width: 66%;
+td{
+	 width: 66%;
     padding: 10px 2%;
 }
+
 
 button {
     font-size: 14px;
@@ -150,3 +150,8 @@ table#report_list .report_title {
 
 table#report_list .report_action {
     width: 13%;
+}
+
+pre { font-family: "Hiragino Kaku Gothic Pro",Meiryo,"MS PGothic",Helvetica,Arial,sans-serif;
+
+    font-size: 1em;}
