@@ -14,7 +14,7 @@ public static List<String> validate(Report r) {
  }
 
  String content_error = _validateContent(r.getContent());
-if(!title_error.equals("")) {
+if(!content_error.equals("")) {
 	errors.add(content_error);
 	}
    return errors;
